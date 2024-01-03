@@ -1,4 +1,3 @@
-# Recursive implementation of AO* aglorithm by Dr. K PARAMESHA, Professor, VVCE, Mysuru, INDIA
 class Graph:
     def _init_(self, graph, heuristicNodeList, startNode):  #instantiate graph object with graph topology, heuristic values, start node
         
